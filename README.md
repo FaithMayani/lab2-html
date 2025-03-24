@@ -1,0 +1,1 @@
+This lab focuses on creating a well-structured HTML5 webpage using semantic elements, implementing an HTML5 form with built-in validation, and ensuring compliance with web standards through the W3C Validator. The final project is uploaded to GitHub using version control.
